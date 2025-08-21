@@ -1,0 +1,90 @@
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.AssemblyInfoInputs.cache
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.AssemblyInfo.cs
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.CoreCompileInputs.cache
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/ShutTheBoxAdvanced
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/ShutTheBoxAdvanced.deps.json
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/ShutTheBoxAdvanced.runtimeconfig.json
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/ShutTheBoxAdvanced.dll
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/ShutTheBoxAdvanced.pdb
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.AssemblyReference.cache
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.CopyComplete
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.dll
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/refint/ShutTheBoxAdvanced.dll
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.pdb
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.genruntimeconfig.cache
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ref/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/ShutTheBoxAdvanced
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/ShutTheBoxAdvanced.deps.json
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/ShutTheBoxAdvanced.runtimeconfig.json
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/ShutTheBoxAdvanced.pdb
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.AssemblyReference.cache
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.AssemblyInfoInputs.cache
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.AssemblyInfo.cs
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.CoreCompileInputs.cache
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.CopyComplete
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/refint/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.pdb
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ShutTheBoxAdvanced.genruntimeconfig.cache
+/Users/olofwarendrylander/Documents/UNI 23 HT/OOP2/ShutTheBoxAdvanced/obj/Debug/net7.0/ref/ShutTheBoxAdvanced.dll
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/bin/Debug/net7.0/ShutTheBoxAdvanced
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/bin/Debug/net7.0/ShutTheBoxAdvanced.deps.json
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/bin/Debug/net7.0/ShutTheBoxAdvanced.runtimeconfig.json
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/bin/Debug/net7.0/ShutTheBoxAdvanced.dll
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/bin/Debug/net7.0/ShutTheBoxAdvanced.pdb
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.AssemblyReference.cache
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.AssemblyInfoInputs.cache
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.AssemblyInfo.cs
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.CoreCompileInputs.cache
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.CopyComplete
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.dll
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/obj/Debug/net7.0/refint/ShutTheBoxAdvanced.dll
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.pdb
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.genruntimeconfig.cache
+/Users/jakobpettersson/Documents/OOP2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ref/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/bin/Debug/net7.0/ShutTheBoxAdvanced
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/bin/Debug/net7.0/ShutTheBoxAdvanced.deps.json
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/bin/Debug/net7.0/ShutTheBoxAdvanced.runtimeconfig.json
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/bin/Debug/net7.0/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/bin/Debug/net7.0/ShutTheBoxAdvanced.pdb
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.AssemblyReference.cache
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.AssemblyInfoInputs.cache
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.AssemblyInfo.cs
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.CoreCompileInputs.cache
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.CopyComplete
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/obj/Debug/net7.0/refint/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.pdb
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ShutTheBoxAdvanced.genruntimeconfig.cache
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inl2/ShutTheBoxAdvanced2/obj/Debug/net7.0/ref/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/bin/Debug/net7.0/ShutTheBoxAdvanced
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/bin/Debug/net7.0/ShutTheBoxAdvanced.deps.json
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/bin/Debug/net7.0/ShutTheBoxAdvanced.runtimeconfig.json
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/bin/Debug/net7.0/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/bin/Debug/net7.0/ShutTheBoxAdvanced.pdb
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.AssemblyReference.cache
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/obj/Debug/net7.0/ShutTheBoxAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/obj/Debug/net7.0/ShutTheBoxAdvanced.AssemblyInfoInputs.cache
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/obj/Debug/net7.0/ShutTheBoxAdvanced.AssemblyInfo.cs
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/obj/Debug/net7.0/ShutTheBoxAdvanced.csproj.CoreCompileInputs.cache
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/obj/Debug/net7.0/ShutTheB.DAB4CC5A.Up2Date
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/obj/Debug/net7.0/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/obj/Debug/net7.0/refint/ShutTheBoxAdvanced.dll
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/obj/Debug/net7.0/ShutTheBoxAdvanced.pdb
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/obj/Debug/net7.0/ShutTheBoxAdvanced.genruntimeconfig.cache
+/Users/olofwarendrylander/Documents/UNI_23_HT/OOP2/inläming2+3/ShutTheBoxAdvanced3/obj/Debug/net7.0/ref/ShutTheBoxAdvanced.dll

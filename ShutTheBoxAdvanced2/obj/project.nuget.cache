@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxsPXc/jwLSVf6ODY9bQq7g2iiGwJXkLc48mVO5AFtca3ztHzxmiV2zpwnVrJSCvHHbHBZAzRU2a8iBzYNw5Dw==",
+  "success": true,
+  "projectFilePath": "/Users/olofwarendrylander/Music/ShutTheBoxAdvanced3/ShutTheBoxAdvanced.csproj",
+  "expectedPackageFiles": [
+    "/Users/olofwarendrylander/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/olofwarendrylander/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
