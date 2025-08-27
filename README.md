@@ -1,6 +1,8 @@
 # Shut the Box Advanced
 This system is the final project for Uppsala University's Informationssystem C Objektorienterad programmering II (2IS062) course. It is a console-based implementation of the classic board game Shut the Box, featuring many object-oriented design patterns and flexible gameplay options. The project was designed to demonstrate proficiency in object-oriented programming by incorporating a wide range of design patterns and concepts covered in the course.
 
+<img width="565" height="339" alt="Screenshot 2025-08-27 at 16 16 31" src="https://github.com/user-attachments/assets/b848df69-9b61-4978-aec3-60c5d3d46f1a" />
+
 ## Project Overview and Design Patterns
 The primary goal of this project was to create a robust and extensible implementation of the Classic Shut the Box board game while implementing at least 18 design patterns taught in the course in a meaningful way.
 
